@@ -1,10 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=New%20Type,%20%20gyongcode&fontColor=000000&&color=748ED1&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=New%20Type,%20%20gyong&fontColor=000000&&color=748ED1&animation=twinkling)
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyongcode)](https://solved.ac/gyongcode/) -->
 
 
-<div>
+<div align="center">
   <h2> 🧠 Algorithm</h2>
   <a href="https://solved.ac/gyongcode/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyongcode" alt="Solved.ac Profile"/>
