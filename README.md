@@ -4,11 +4,16 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyongcode)](https://solved.ac/gyongcode/) -->
 
 
-<p align="center">
+<div>
+  <h2> 🧠 Algorithm</h2>
   <a href="https://solved.ac/gyongcode/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyongcode" alt="Solved.ac Profile"/>
   </a>
-</p>
+  <br>
+  •  PCCP LEVEL 4, 827 Points
+  <br>
+  •  서울청 코딩대회 우수상     
+</div>
 
 ---
 
