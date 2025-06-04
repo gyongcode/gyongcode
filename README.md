@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=&fontColor=000000&&color=748ED1&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=gyongcode&fontColor=000000&color=748ED1&animation=twinkling&fontSize=60)
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyongcode)](https://solved.ac/gyongcode/) -->
