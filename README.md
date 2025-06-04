@@ -7,6 +7,9 @@
  
 ![gyongcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=gyongcode&show_icons=true&theme=blue_navy)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gyongcode&theme=blue-navy)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gyongcode&show_icons=true&theme=blue_navy) ![GitHub Streak](https://streak-stats.demolab.com/?user=gyongcode&theme=blue-navy)
+
  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gyongcode&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
