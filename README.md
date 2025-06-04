@@ -12,7 +12,7 @@
   <br>
   •  PCCP LEVEL 4, 827 Points
   <br>
-  •  서울청 코딩대회 우수상     
+  •  서울청 코딩대회 HIT! K-Job STAR 우수상    
 </div>
 
 ---
