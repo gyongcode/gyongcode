@@ -1,5 +1,5 @@
 <!-- Wave Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=260&text=gyongcode&fontColor=0d1117&color=748ED1&animation=twinkling&fontSize=60&fontAlign=50&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&height=260&text=💻%20Devlog%20of%20Gyongcode&fontColor=0d1117&color=748ED1&animation=twinkling&fontSize=60&fontAlign=50&fontAlignY=38)
 
 <div align="center">
 
