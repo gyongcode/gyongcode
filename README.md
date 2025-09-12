@@ -52,7 +52,7 @@
 
 - **PCCP Level 4 (827 pts)** / 2025 / 프로그래머스
 - **서울청 코딩대회 HIT! K-Job STAR 우수상** / 2025 / 서울지방고용노동청
-- **대학기업협력형 SW아카데미 개발 경진 대회 대상** / 2024 / 서경대학교
+- **대학기업협력형 SW아카데미 개발 경진 대회 대상** / 2024 / OO대학교
 
 <a href="https://solved.ac/gyongcode/">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gyongcode" alt="Solved.ac Profile" height="165"/>
