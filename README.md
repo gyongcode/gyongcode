@@ -96,4 +96,9 @@
 
 ---
 
+### 📁 Projects & Study
+
+- [🗂️ ERP 프로젝트 Notion 정리](https://mountainous-sweatshirt-503.notion.site/ea8e3c4f7e0a49c6abb05603eb343a91?pvs=73)
+- [📚 코딩테스트 스터디 Notion 정리](https://mountainous-sweatshirt-503.notion.site/ea8e3c4f7e0a49c6abb05603eb343a91)
+
 
