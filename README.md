@@ -1,7 +1,5 @@
 <!-- Wave Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=260&text=💻%20Devlog%20of%20Gyongcode&fontColor=0d1117&color=748ED1&animation=twinkling&fontSize=60&fontAlign=50&fontAlignY=38)
 
-<div align="center">
 
 
 </div>
@@ -98,9 +96,4 @@
 
 ---
 
-<p align="center">
-  <sub>인생을 디버깅 중 📈</sub>
-</p>
 
-<!-- Footer Wave -->
-![footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=748ED1&fontColor=0d1117)
